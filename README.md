@@ -1,4 +1,4 @@
-PDX OSM Task List
+[PDX OSM Task List](http://geografa.github.io/osm-tasks/#/)
 ---
 Used for [PDX 2013 OSM Editathon](http://pdxmele.com/editathon/).
 
