@@ -4,6 +4,8 @@ Used for [PDX 2013 OSM Editathon](http://pdxmele.com/editathon/).
 
 **Credits:**
 
+![Sample Image](/components/todomvc-common/sample.png)
+
 - [Christoph Burgdorf](http://twitter.com/cburgdorf)
 - [Eric Bidelman](http://ericbidelman.com)
 - [Jacob Mumm](http://jacobmumm.com)
