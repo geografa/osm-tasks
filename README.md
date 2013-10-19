@@ -4,7 +4,7 @@ Used for [PDX 2013 OSM Editathon](http://pdxmele.com/editathon/).
 
 **Credits:**
 
-![Sample Image](/img/sample.png)
+![Sample Image](img/sample.png)
 
 - [Christoph Burgdorf](http://twitter.com/cburgdorf)
 - [Eric Bidelman](http://ericbidelman.com)
