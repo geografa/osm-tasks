@@ -1,0 +1,89 @@
+{
+  "osm-test" : [ {
+    "url" : "http:grafa.co",
+    "completed" : false,
+    "title" : "pois"
+  }, {
+    "url" : "http:grafa.co",
+    "completed" : false,
+    "title" : "Record all park trails"
+  } ],
+  "todomvc" : [ {
+    "completed" : false,
+    "title" : "Money to Nick and Karen"
+  }, {
+    "completed" : false,
+    "title" : "add tutorials to mapbox support"
+  }, {
+    "completed" : true,
+    "title" : "new and updated help docs with pull requests"
+  }, {
+    "completed" : true,
+    "title" : "beat Tom on the leaderboard for Support"
+  }, {
+    "completed" : true,
+    "title" : "post comments with all assignments"
+  }, {
+    "completed" : false,
+    "title" : "fix tilemill docs https://github.com/mapbox/tilemill/pull/1998"
+  }, {
+    "completed" : false,
+    "title" : "fix tilemill docs http://www.mapbox.com/tilemill/docs/guides/advanced-legends/#the_waxlegend_class"
+  }, {
+    "completed" : false,
+    "title" : "water glass with numbers"
+  } ],
+  "markers" : [ {
+    "lat" : 45.499,
+    "draggable" : true,
+    "lng" : -122.6599,
+    "message" : "Hey, drag me if you want",
+    "focus" : true
+  }, {
+    "lat" : 45.459,
+    "lng" : -122.67,
+    "message" : "I'm a static marker"
+  } ],
+  "project" : {
+    "-IzsZH6R3jEn2VsRpyY1" : {
+      "description" : "sdfvsd",
+      "name" : "new",
+      "site" : "http://cnn.com"
+    },
+    "-Izs_fyEBsuM7YtPrnrf" : {
+      "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "name" : "another",
+      "site" : "http://example.com"
+    }
+  },
+  "osm" : [ {
+    "url" : "http:grafa.co",
+    "completed" : false,
+    "title" : "Record some park trails"
+  }, {
+    "completed" : false,
+    "title" : "QA: http://keepright.ipax.at/"
+  }, {
+    "completed" : false,
+    "title" : "Downtown POIs"
+  }, {
+    "completed" : false,
+    "title" : "PDX building import"
+  }, {
+    "completed" : false,
+    "title" : "Teach someone new how to edit"
+  }, {
+    "completed" : false,
+    "title" : "TIGER updates battlegrid: http://openstreetmap.us/2013/09/battlegrid/"
+  }, {
+    "completed" : false,
+    "title" : "Align streets, add POIs in your hometown and less-frequented rural areas"
+  } ],
+  "grocs" : [ {
+    "completed" : false,
+    "title" : "Milk"
+  }, {
+    "completed" : false,
+    "title" : "Half and Half"
+  } ]
+}
